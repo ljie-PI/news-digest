@@ -1,0 +1,71 @@
+---
+interface Props { title?: string }
+const { title = 'Deep Dive Daily' } = Astro.props;
+---
+<!doctype html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <style is:global>
+    :root { --bg: #fff; --fg: #1a1a2e; --card: #f8f9fa; --border: #e0e0e0; --muted: #666; }
+    [data-theme="dark"] { --bg: #0d1117; --fg: #e6edf3; --card: #161b22; --border: #30363d; --muted: #8b949e; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--fg); line-height: 1.6; max-width: 860px; margin: 0 auto; padding: 1rem; }
+    a { color: var(--fg); text-decoration: none; }
+    a:hover { opacity: 0.8; }
+    .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; color: #fff; }
+    .tag-hn { background: #ff6600; }
+    .tag-reddit { background: #ff4500; }
+    .tag-github { background: #238636; }
+    .tag-ph { background: #ff6154; }
+    header { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; }
+    header h1 { font-size: 1.25rem; }
+    header h1 a { font-weight: 800; }
+    .theme-toggle { cursor: pointer; background: none; border: 1px solid var(--border); color: var(--fg); padding: 4px 10px; border-radius: 6px; font-size: 1rem; }
+    .filters { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+    .filters a { padding: 4px 12px; border: 1px solid var(--border); border-radius: 6px; font-size: 0.85rem; }
+    .filters a.active, .filters a:hover { background: var(--fg); color: var(--bg); }
+    .article-card { padding: 0.75rem 0; border-bottom: 1px solid var(--border); }
+    .article-card h2 { font-size: 1rem; margin-bottom: 0.25rem; }
+    .article-meta { font-size: 0.8rem; color: var(--muted); display: flex; gap: 0.5rem; align-items: center; }
+    .article-summary { font-size: 0.85rem; color: var(--muted); margin-top: 0.25rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .prose { line-height: 1.8; }
+    .prose h1,.prose h2,.prose h3 { margin: 1.5em 0 0.5em; }
+    .prose p { margin: 0.75em 0; }
+    .prose ul,.prose ol { padding-left: 1.5em; margin: 0.5em 0; }
+    .prose blockquote { border-left: 3px solid var(--border); padding-left: 1em; color: var(--muted); margin: 1em 0; }
+    .prose code { background: var(--card); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+    .prose pre { background: var(--card); padding: 1em; border-radius: 8px; overflow-x: auto; margin: 1em 0; }
+    .prose pre code { background: none; padding: 0; }
+    .prose a { color: #58a6ff; text-decoration: underline; }
+    .prose img { max-width: 100%; border-radius: 8px; }
+    .back { display: inline-block; margin-bottom: 1rem; color: var(--muted); }
+  </style>
+  <script is:inline>
+    const t = localStorage.getItem('theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', t);
+  </script>
+</head>
+<body>
+  <header>
+    <h1><a href="/">🔍 Deep Dive Daily</a></h1>
+    <button class="theme-toggle" id="themeBtn" aria-label="Toggle theme">🌙</button>
+  </header>
+  <slot />
+  <script is:inline>
+    const btn = document.getElementById('themeBtn');
+    function updateBtn() {
+      btn.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '☀️' : '🌙';
+    }
+    updateBtn();
+    btn.addEventListener('click', () => {
+      const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      updateBtn();
+    });
+  </script>
+</body>
+</html>
