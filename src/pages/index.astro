@@ -2,8 +2,8 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
-const digests = (await getCollection('digest')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 5);
-const deepDives = (await getCollection('deep-dive')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 5);
+const digests = (await getCollection('digest')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 8);
+const deepDives = (await getCollection('deep-dive')).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 15);
 
 function tagClass(source: string) {
   const map: Record<string, string> = { HN: 'tag-hn', Reddit: 'tag-reddit', GitHub: 'tag-github', PH: 'tag-ph' };
