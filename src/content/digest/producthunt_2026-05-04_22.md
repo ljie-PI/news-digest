@@ -2,7 +2,7 @@
 title: "Product Hunt 日报 2026-05-04"
 date: "2026-05-04"
 generated: "2026-05-04 22:00"
-source: "ProductHunt"
+source: "PH"
 slug: "producthunt_2026-05-04_22"
 ---
 
