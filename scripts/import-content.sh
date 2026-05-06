@@ -5,7 +5,7 @@
 
 set -euo pipefail
 
-NEWS_DIR="$HOME/.openclaw/workspace/news-monitor"
+NEWS_DIR="$HOME/.hermes/workspace/news-monitor"
 DEEP_DIVE_DIR="$NEWS_DIR/deep_dive"
 SITE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 DIGEST_CONTENT="$SITE_DIR/src/content/digest"
