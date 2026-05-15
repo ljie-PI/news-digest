@@ -1,0 +1,199 @@
+---
+title: "Product Hunt 日报 2026-05-16"
+date: "2026-05-16"
+generated: "2026-05-16 07:00"
+source: "ProductHunt"
+slug: "producthunt_2026-05-16_07"
+---
+
+# Product Hunt 日报 2026-05-16
+
+## Daily
+
+共 30 个产品。
+
+- **OpenHuman** — [PH 链接](https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 342
+  - 标语：An open source AI harness built with the human in mind
+  - 描述：90% of people who try AI agents give up. Three reasons: memory that resets every session, your data sitting in someone else's cloud and a terminal just to get started. Real blockers. OpenHuman fixes all of it. Local-firs…
+- **HasData** — [PH 链接](https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 314
+  - 标语：Web scraping service for AI agents
+  - 描述：HasData is the managed web scraping service for data pipelines and AI agents. Send any URL, get clean JSON or Markdown back in one API call. We handle proxies, browser rendering, retries, and anti-bot. 50+ ready scrapers…
+- **PHBench** — [PH 链接](https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 296
+  - 标语：Predict the next Series A from a ProductHunt launch
+  - 描述：PHBench: the first public benchmark predicting Series A funding from Product Hunt launch signals. We analyzed 67,292 featured launches over 7 years, linked to 528 verified Series A rounds via Crunchbase. Champion model:…
+- **Lensmor** — [PH 链接](https://www.producthunt.com/products/lensmor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 266
+  - 标语：Turn exhibitor data into pre-booked sales meetings
+  - 描述：Unlike generic contact databases, Lensmor starts with exhibitor data, helping teams discover relevant events, find exhibiting companies, identify decision-makers, reveal verified emails, and book meetings before the show…
+- **Agentic Website Builder 2.0 by Lokuma** — [PH 链接](https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 160
+  - 标语：Design, build, and run your site with a design agent harness
+  - 描述：Lokuma 2.0 is a design-aware agent harness for websites. Most AI builders can generate a first draft. But real sites need structure, taste, brand consistency, editing, publishing, forms, and ongoing updates. Lokuma conne…
+- **Gradient Bang** — [PH 链接](https://www.producthunt.com/products/gradient-bang?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 145
+  - 标语：Massively multi-player game played by talking to an LLM
+  - 描述：Gradient Bang is a new kind of software: AI-native, built from the ground up to use LLMs everywhere. The game has a dynamic user interface driven by an LLM, conversational voice input, and to win you have to manage a fle…
+- **Crustimate** — [PH 链接](https://www.producthunt.com/products/findable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 138
+  - 标语：Free tool to fix your LinkedIn to get found by AI recruiters
+  - 描述：AI recruiting tools now filter candidates before any human sees your name. Paste your LinkedIn URL and get your AI readiness score in 30 seconds. See exactly what's hurting your visibility, get a rewritten profile, and a…
+- **TrustClaw by Composio** — [PH 链接](https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 132
+  - 标语：Self-hosted AI agent that connects 1000+ apps on Vercel
+  - 描述：TrustClaw is a personal AI agent that you can self-host on Vercel with one command. Powered by Composio, it connects to 1000+ apps over OAuth, runs scheduled jobs on its own, and talks to you on the web or Telegram. It i…
+- **mia ** — [PH 链接](https://www.producthunt.com/products/mia-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 130
+  - 标语：Cursor for Product Managers
+  - 描述：Allowing product managers to turn their customer signals into ship-ready requirements for AI to develop.
+- **Standboy** — [PH 链接](https://www.producthunt.com/products/standboy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 124
+  - 标语：A Game Boy that wakes up while your agent works
+  - 描述：A Game Boy in your editor sidebar that wakes up while your AI agent works and tucks away when it stops.
+- **Cline SDK** — [PH 链接](https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 104
+  - 标语：Build coding agents with a plugin-based open-source runtime
+  - 描述：Cline SDK is an open-source TypeScript agent runtime with plugin architecture, native subagents, MCP support, checkpointing, cron jobs, and web fetch. For developers building custom coding agents or CLI tools.
+- **Relay** — [PH 链接](https://www.producthunt.com/products/relay-15?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 101
+  - 标语：Stop repeating yourself to every AI
+  - 描述：❌ Every time you open a new AI chat, you paste the same context all over again — your stack, decisions, constraints, where you left off 🛠️ Relay fixes this. It captures what matters from your AI chats and keeps a living…
+- **Kimi WebBridge** — [PH 链接](https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 101
+  - 标语：A bridge connecting AI agents to the live web
+  - 描述：Kimi WebBridge is the browser extension for AI agents. AI can open pages, click, fill forms, extract info, and automate web tasks.
+- **Sleek Analytics v3** — [PH 链接](https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 100
+  - 标语：A simple Google Analytics alternative for the modern web.
+  - 描述：Sleek Analytics is a privacy-first Google Analytics alternative for Modern Web. Real-time website analytics, cookieless tracking, and fast dashboards. We built Sleek because analytics shouldn't require a PhD. Paste one l…
+- **Wowable** — [PH 链接](https://www.producthunt.com/products/wowable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 90
+  - 标语：Paste a link and get a live website
+  - 描述：Most website builders generate generic pages that all sound the same. Wowable turns reviews, social profiles, screenshots, and business listings into a complete website using the content your business already has online.…
+- **Cats Lock** — [PH 链接](https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 88
+  - 标语：Lock your Mac keyboard so your cat can walk on it.
+  - 描述：Most keyboard-locking apps were built for keyboard cleaning. Cats Lock is built for the cat moment. What stands out: • Stealth Lock mode (silent + invisible) for meetings • Customizable warning sound, with import for you…
+- **Picsart MCP** — [PH 链接](https://www.producthunt.com/products/picsart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 87
+  - 标语：One connection for 140+ AI models for images and video
+  - 描述：With MCP, AI assistants connect to tools through a single, reusable link. The Picsart MCP server acts as a unified toolbox, giving access to 140+ AI models for image, video, and audio. A request starts in plain English,…
+- **Riffly** — [PH 链接](https://www.producthunt.com/products/riffly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 87
+  - 标语：Describe a deck and AI builds it + Exports to PowerPoint
+  - 描述：Riffly is an AI presentation builder you talk to instead of click through. Type your prompt — "10-slide pitch deck, dark theme, investor-ready" — and a full designed deck appears in seconds. Refine it through chat. Click…
+- **Basedash MCP Connectors** — [PH 链接](https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 86
+  - 标语：Connect any app and take action anywhere
+  - 描述：Basedash already reads from your databases, warehouses, and SaaS tools. Now it can act on them too. Connect any MCP server — Linear, HubSpot, Slack, Resend, Notion, GitHub — and the Basedash agent gets new tools it can u…
+- **PromptScout** — [PH 链接](https://www.producthunt.com/products/promptscout?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 85
+  - 标语：Track your brand visibility across AI models
+  - 描述：PromptScout helps founders, SEO consultants, and agencies understand AI visibility. Start with a free technical AI-readiness audit, then create a free account to track how AI assistants mention your brand, cite your page…
+- **Mobius** — [PH 链接](https://www.producthunt.com/products/mobius-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 85
+  - 标语：Describe a trade and Mobius builds, backtests, and runs it
+  - 描述：Retail traders are stuck between no-code tools that can't flex and quant stacks that take weeks to set up. The idea is fast. The execution isn't. Mobius turns plain-English strategies into deployed trading bots backteste…
+- **Just The Tips** — [PH 链接](https://www.producthunt.com/products/just-the-tips?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 84
+  - 标语：A stablecoin tip-jar bot for Discord, Telegram, Twitch, & X
+  - 描述：Non-custodial multi-chain stablecoin tipping bot for creators. Run your own. Four chains. No custody. No accounts. No nonsense.
+- **Whiteout** — [PH 链接](https://www.producthunt.com/products/whiteout?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 83
+  - 标语：Auto-redact sensitive info from Mac screenshots
+  - 描述：Whiteout sits in your Mac menu bar, watches your screenshots, and auto-detects sensitive info like phone numbers, SSNs, credit cards, and API keys. Clean copies saved automatically, originals tucked away. Fully offline.…
+- **DramaBox by Resemble AI** — [PH 链接](https://www.producthunt.com/products/resemble-clone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 82
+  - 标语：AI turns scene descriptions into vocal performances
+  - 描述：A TTS model should give you two things: an oscar-worthy performance and a verifiable signature to prove it's yours. DramaBox is the first to do both. Describe a scene the way you would to an actor, like 'a talk show host…
+- **Magic Notebook** — [PH 链接](https://www.producthunt.com/products/magic-notebook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 82
+  - 标语：A calm writing app with no complexity and no AI
+  - 描述：✨Magic Notebook✨ is a calm writing app for people who just want to write. No clutter. No complex systems. No AI. • Just open the app and start typing — no setup, no learning curve • Write in a familiar way, with full sup…
+- **Cleo AI** — [PH 链接](https://www.producthunt.com/products/cleo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 81
+  - 标语：AI Product Operator for AI-native teams
+  - 描述：Most small product teams spend days reading hundreds of customer messages, GitHub issues, and coding-agent failure traces trying to figure out what to build next. In this era, small AI native teams in B2B can outperform…
+- **Repaint** — [PH 链接](https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 80
+  - 标语：Rebuild your existing website with AI
+  - 描述：Paste your website URL and Repaint rebuilds it with AI. It can recreate your pages, migrate your assets, preserve your style, or redesign the site in a completely new direction.
+- **DevRecorder** — [PH 链接](https://www.producthunt.com/products/devrecorder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 80
+  - 标语：Screen recorder with console, network, errors & annotations
+  - 描述：DevRecorder is a Chrome extension that records your screen alongside console logs, network requests, and navigation events — all on one synchronized timeline. Hit record, reproduce a bug, and share a link. Your team sees…
+- **Nimbus** — [PH 链接](https://www.producthunt.com/products/nimbus-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 79
+  - 标语：Agentic Browser with Claude Code UX
+  - 描述：Nimbus is an agentic browser inspired by Claude Code UX. Tell it what you want in plain English. It handles the mechanical work: clicks, forms, file pickers, multi-tab coordination and pauses to ask only when there's som…
+- **Atlas Navigation** — [PH 链接](https://www.producthunt.com/products/atlas-navigation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 79
+  - 标语：Predicts your TSA wait before you leave for the airport
+  - 描述：Predict TSA security wait times before you get to the airport. Every other tool shows you what the line looks like right now. Atlas tells you what it'll look like when you arrive. Our machine learning model is trained on…
+
+## Weekly
+
+共 30 个产品。
+
+- **Spellar 3.0** — [PH 链接](https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 522
+  - 标语：AI Meeting companion with cross-meeting memory
+  - 描述：Most meeting tools give you notes. Spellar AI gives you memory. It joins your calls, captures every word, and builds context across all your meetings. Ask what a client said three calls ago. Find decisions from last week…
+- **Kelviq** — [PH 链接](https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 504
+  - 标语：Payments, tax, and billing for SaaS & AI companies
+  - 描述：Kelviq is the complete monetization platform for SaaS, AI, and digital products. It handles payments, global tax, subscriptions, usage-based billing, digital delivery, license keys, and compliance in one place, for 3.5%…
+- **articuler.ai** — [PH 链接](https://www.producthunt.com/products/articuler-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 472
+  - 标语：Describe your goal. Meet the right professional.
+  - 描述：Networking is broken because keyword search is broken. We bring real connections to the table — the investor who funds your round, the hire who ships your roadmap, the partner who opens your next market. Tell us your int…
+- **Memoket Gem** — [PH 链接](https://www.producthunt.com/products/memoket-gem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 472
+  - 标语：An AI wearable that remembers your conversations all day
+  - 描述：We’re opening 50 free spots for our Founding Member Program for founders, SMB owners who want to try Memoket Gem early. Memoket Gem is an all-day AI wearable that captures meetings, calls, coffee chats, and decisions on…
+- **Naptick AI** — [PH 链接](https://www.producthunt.com/products/naptick-ai-sleep-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 463
+  - 标语：Al sleep companion that helps fall asleep without struggle
+  - 描述：Naptick is a smart bedside AI sleep companion designed for founders, professionals, light sleepers, and anyone struggling with nighttime stress or doomscrolling. It combines circadian light therapy, 1000+ adaptive sounds…
+- **OpenJobs AI** — [PH 链接](https://www.producthunt.com/products/openjobs-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 413
+  - 标语：End-to-End Autonomous AI Recruiter
+  - 描述：Tell us what role you’re hiring for. AI recruiter sources qualified candidates, screens them against your requirements, sends personalized outreach, tracks replies, and books interviews directly on your calendar.
+- **Genpire** — [PH 链接](https://www.producthunt.com/products/genpire-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 397
+  - 标语：Make Real Products with AI, literally.
+  - 描述：Most AI stops at the idea. Genpire takes it to the factory. Think Lovable, but for consumer goods manufacturing - an agentic platform that turns prompts and sketches into products, collections, and factory-ready specs, t…
+- **Graphbit PRFlow** — [PH 链接](https://www.producthunt.com/products/graphbit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 383
+  - 标语：AI code reviewer that catches what others miss
+  - 描述：Your AI teammate that reviews every pull request before it ships. Tested on 10 real projects, PRFlow found 7 critical security issues where competitors found zero. Learns your team's standards over time. Pay per review,…
+- **Latitude for Claude Code** — [PH 链接](https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 353
+  - 标语：See where Claude Code burns tokens. Hit your limits less.
+  - 描述：Trace every Claude Code session. See the full system prompt, every tool call, every subagent, and token cost per turn. One command to install, free, your traces stay in your account. Receive a weekly report with your sta…
+- **Ghost** — [PH 链接](https://www.producthunt.com/products/ghost-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 350
+  - 标语：Open-source, self-hosted game servers
+  - 描述：Open-source dedicated game server platform. Spin up Minecraft, Valheim, Rust, Palworld, Enshrouded and Terraria on your own Hetzner Cloud account in seconds.
+- **Tailgrids 3.0** — [PH 链接](https://www.producthunt.com/products/tailgrids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 343
+  - 标语：Open-source React UI library for Tailwind and AI Workflow
+  - 描述：TailGrids 3.0 is a complete rebuild - a modern open-source React UI library and design system that unifies React, Tailwind and Figma. Ship real-world web projects with 600+ components, blocks, and templates for dashboard…
+- **OpenHuman** — [PH 链接](https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 342
+  - 标语：An open source AI harness built with the human in mind
+  - 描述：90% of people who try AI agents give up. Three reasons: memory that resets every session, your data sitting in someone else's cloud and a terminal just to get started. Real blockers. OpenHuman fixes all of it. Local-firs…
+- **HasData** — [PH 链接](https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 314
+  - 标语：Web scraping service for AI agents
+  - 描述：HasData is the managed web scraping service for data pipelines and AI agents. Send any URL, get clean JSON or Markdown back in one API call. We handle proxies, browser rendering, retries, and anti-bot. 50+ ready scrapers…
+- **Open Vibe** — [PH 链接](https://www.producthunt.com/products/open-vibe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 314
+  - 标语：Ship your SaaS with AI, without getting stuck
+  - 描述：Build the skills of a pro coder while you ship a real SaaS app! Open Vibe turns Claude Code (or your agent of choice) into the ultimate SaaS tutor, teaching the most important concepts while you build.
+- **ClawSecure** — [PH 链接](https://www.producthunt.com/products/clawsecure?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 300
+  - 标语：The AI-Powered Antivirus for AI Agents
+  - 描述：ClawSecure is the AI-powered antivirus for AI agents. Pre-install scanning, real-time runtime monitoring, an in-agent Security Companion Agent, and a sub-200ms Verification API. Full 10/10 OWASP ASI coverage. 41% of top…
+- **PHBench** — [PH 链接](https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 296
+  - 标语：Predict the next Series A from a ProductHunt launch
+  - 描述：PHBench: the first public benchmark predicting Series A funding from Product Hunt launch signals. We analyzed 67,292 featured launches over 7 years, linked to 528 verified Series A rounds via Crunchbase. Champion model:…
+- **InvestorFinder** — [PH 链接](https://www.producthunt.com/products/investorfinder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 284
+  - 标语：Find investors who've backed founders just like you
+  - 描述：Finally, real data on how every VC partner actually invests - founder backgrounds, universities and prior companies. Paste your profile and find your best matches in seconds.
+- **CraftBot with Living UI** — [PH 链接](https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 267
+  - 标语：Grow your own software that is alive.
+  - 描述：Living UI is a brand-new system that lets CraftBot (general AI agent) build, import, or evolve custom apps/dashboards that live inside CraftBot itself. The agent stays context-aware of the Living UI's state and can read,…
+- **Lensmor** — [PH 链接](https://www.producthunt.com/products/lensmor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 266
+  - 标语：Turn exhibitor data into pre-booked sales meetings
+  - 描述：Unlike generic contact databases, Lensmor starts with exhibitor data, helping teams discover relevant events, find exhibiting companies, identify decision-makers, reveal verified emails, and book meetings before the show…
+- **Tendem by Toloka** — [PH 链接](https://www.producthunt.com/products/tendem-by-toloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 257
+  - 标语：AI platform to hand off any task to a human expert
+  - 描述：Tendem is a platform where human experts and AI agents complete high-stakes tasks. Submit a task in plain language. AI agents handle the volume. Human experts level up the the final output. What comes back is complete, a…
+- **Frontdesk AI** — [PH 链接](https://www.producthunt.com/products/frontdesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 249
+  - 标语：AI COO to run your business like a Fortune 500 enterprise
+  - 描述：Enter your website and get all the AI agents you need to grow your business. One AI that calls, texts, and emails all of your customers 24/7. A CRM, a ticketing system, even a website builder.
+- **Jotform Claude App** — [PH 链接](https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 249
+  - 标语：Build, edit, and analyze forms directly in Claude
+  - 描述：Build, edit, and analyze forms directly inside Claude using simple conversations. Create forms, edit fields, add logic, search submissions, and get insights, all by describing what you want. No manual setup or switching…
+- **deepsec** — [PH 链接](https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 244
+  - 标语：Open-source coding security harness
+  - 描述：Vercel is open sourcing deepsec, an AI security harness that runs on your infrastructure, with your keys, against your code.
+- **How AI-pilled are you?** — [PH 链接](https://www.producthunt.com/products/how-ai-pilled-are-you?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 242
+  - 标语：Curious how AI-fluent your organization is?
+  - 描述：The P9 AI Fluency Index gives you an explainable grade in ~12 minutes, along with clear recommendations on how to reach the next level. Based on benchmarks from some of the most forward-thinking companies like Ramp, Fin,…
+- **Hyperswitch Prism** — [PH 链接](https://www.producthunt.com/products/hyperswitch-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 237
+  - 标语：Library to plug-n-switch payment processors
+  - 描述：Prism is a stateless payments library that connects your app to multiple payment processors. You can integrate once and point to any payment processor; add fallbacks for redundancy, switch processors based on routing rul…
+- **Blaze 2.0** — [PH 链接](https://www.producthunt.com/products/blaze-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 236
+  - 标语：AI marketer for SMBs complete w/ strategy, content, and ads
+  - 描述：Blaze 2.0 is the marketing solution for people who don't have time to do marketing. It learns your business, your audience, and your voice — then creates and manages your entire content strategy, automatically. Like havi…
+- **Weavable** — [PH 链接](https://www.producthunt.com/products/weavable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 226
+  - 标语：Give every AI agent persistent work context
+  - 描述：Weavable gives AI agents persistent, live work context from the tools your business already runs on. Through a single MCP endpoint, it turns scattered updates, relationships, and system changes into a usable context laye…
+- **Theneo** — [PH 链接](https://www.producthunt.com/products/theneo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 223
+  - 标语：The API management platform for humans and agents
+  - 描述：The all-in-one platform to design, document, manage, and observe your APIs. Built for the developers shipping them, the customers integrating them, and the agents now calling them at scale.
+- **Prism** — [PH 链接](https://www.producthunt.com/products/prism-26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 218
+  - 标语：Hire the best candidates, not just the available
+  - 描述：Most recruiting agencies start with who they already know. Prism starts with who is actually best for the role. We search beyond existing networks, agency databases, and active job seekers to find high-fit candidates acr…
+- **Warp Open-Source** — [PH 链接](https://www.producthunt.com/products/warp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+openclaw+%28ID%3A+279039%29) — 👍 214
+  - 标语：Agentic development environment built with the community
+  - 描述：The best, longest-lasting software is built with the people who use it, so we've opened up Warp to the community. To make this possible, Oz-managed agents do the heavy lifting (coding, planning, testing), letting communi…
